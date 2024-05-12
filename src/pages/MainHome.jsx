@@ -25,7 +25,7 @@ export const MainHome = () => {
                 <li><a href="/csfitness/home" style={{ color: 'white', textDecoration: 'none', ':hover': { color: '#d1d5db' } }}>Class & Schedule</a></li>
                 <li><a href="/TrinerHome" style={{ color: 'white', textDecoration: 'none', ':hover': { color: '#d1d5db' } }}>Personal Traniner</a></li>
                 <li><a href="/StoreShoppingPage" style={{ color: 'white', textDecoration: 'none', ':hover': { color: '#d1d5db' } }}>Supplement Shop</a></li>
-                <li><a href="#" style={{ color: 'white', textDecoration: 'none', ':hover': { color: '#d1d5db' } }}>INSTRUCTORS</a></li>
+                <li><a href="/INSTRUCTORS" style={{ color: 'white', textDecoration: 'none', ':hover': { color: '#d1d5db' } }}>INSTRUCTORS</a></li>
               </ul>
             </nav>
             <button style={{ backgroundColor: '#ef4444', color: 'white', padding: '0.5rem 1rem', borderRadius: '0.375rem', ':hover': { backgroundColor: '#dc2626' } }}>Login/User</button>

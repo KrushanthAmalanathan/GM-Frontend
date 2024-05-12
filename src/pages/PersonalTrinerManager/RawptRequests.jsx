@@ -50,7 +50,7 @@ const RawptRequests = () => {
       </div>
 
       {/* Pass onSearch prop to SearchBar */}
-      <SearchBar placeholder={"Enter the User ID"} onSearch={setSearch} />
+      <SearchBar placeholder={"Enter the User Name"} onSearch={setSearch} />
 
       {loading ? (
         <Spinner />
